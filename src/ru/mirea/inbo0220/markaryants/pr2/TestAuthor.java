@@ -1,5 +1,4 @@
 package ru.mirea.inbo0220.markaryants.pr2;
-import java.lang.*;
 
 public class TestAuthor {
     public static void main(String[] args) {
